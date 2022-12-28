@@ -1,0 +1,21 @@
+body {
+    background-color: mediumorchid;
+
+}
+.inline-block{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin-left: 50px;
+    
+}
+.inline{
+    background-color: orange;
+    width: 100px;
+    height: 100px;
+    display: inline;
+    margin-left: 100px;
+    
+    
+}

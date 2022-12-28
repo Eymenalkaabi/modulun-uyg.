@@ -1,0 +1,27 @@
+body {
+    background-color: skyblue;
+}
+
+
+li {
+    display:inline;
+    text-decoration: none;
+    padding: 16px;
+    float: left;
+    text-shadow: 5px grey;
+    
+}
+.img1 {
+    height: 35%;
+    width: 20%;
+    position: absolute;
+    left: 65px;
+    top: 60px;
+}
+.img2 {
+    height: 35%;
+    width: 20%;
+    position: absolute;
+    left: 400px;
+    top: 60px;
+}

@@ -1,0 +1,9 @@
+body {
+    background-color: lightcyan;
+}
+.galeri {
+    width: 23%;
+    height: 4%;
+    border: 2px solid rgba(211, 99, 8, 0.986);
+    border-radius: 10px;
+}
