@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(90deg, #3F2B96 0%, #A8C0FF 100%);
+}
+
+
+div {
+    text-align: center;
+}
+@media screen and (min-device-width:215px)
+ {
+ #smalladvertising{display: inline;}
+ #bigadvertising{display:none;}
+ }
+
+
+
+@media screen and (min-device-width:750px)
+ {
+ #bigadvertising{
+    display:inline;
+}
+ #smalladvertising{
+    display: none;
+}
+
+
+ }

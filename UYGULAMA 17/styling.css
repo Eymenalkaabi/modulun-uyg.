@@ -1,0 +1,9 @@
+.cont{
+    display: inline-block;
+    width: 50px; height: 50px;
+    background-color: greenyellow;
+    border: 2px solid gray;
+   }
+   .visible{
+    position: relative; left:30px; top:30px;
+   }
